@@ -19,7 +19,7 @@ This app solves those problems by offering:
 The goal is to help beginners—or anyone wanting a structured workflow-cook efficiently and confidently.
 
 # Architecture Diagram
-![image -1-](assets/image%20-1-.png)
+<img width="1300" height="803" alt="image (1)" src="https://github.com/user-attachments/assets/eb8bdde3-105a-43f5-8ab5-708eb0a7fefb" />
 
 
 # Project Structure
@@ -129,13 +129,18 @@ In the future, I would use AI a bit differently. I would start using it earlier 
 For the GenAI extension, I used loveable to prototype an enhanced feature of my cooking assistant. The goal was to explore how AI tools can rapidly turn ideas into working interfaces.
 
 **Screenshots of My Prompts**
-![Prompt asking the tool to build a complete cooking assistant](assets/17642702853256.jpg)
-![Prompt asking to unify timer + next-step button](assets/17642703379492.jpg)
-![Prompt asking to show instruction text before starting timer](assets/17642703804583.jpg)
-![Prompt asking to remove the 10-second warning](assets/17642704128640.jpg)
+![17642702853256](https://github.com/user-attachments/assets/d989f81f-363e-4169-b7ca-6776f7b73bf0)
+
+![17642703379492](https://github.com/user-attachments/assets/f63543f8-9b50-4f5e-95c7-0f149db108e3)
+
+![17642703804583](https://github.com/user-attachments/assets/f45c3ee9-2385-4f53-b2e9-336a43bdc325)
+
+![17642704128640](https://github.com/user-attachments/assets/070bbd04-d7f0-4e32-a7b7-fa3345291224)
+
 
 **Screenshots / Snippets of Generated Output**
-![](assets/17642706633964.jpg)![](assets/17642710342558.jpg)
+![17642706633964](https://github.com/user-attachments/assets/ccc77ccd-b0a4-42f8-915b-a70b64166f07)
+![17642710342558](https://github.com/user-attachments/assets/8c887b40-6dfc-4d3d-ba77-9d7bb0b80bdf)
 
 A full cooking assistant UI with: Recipe text box, “Start Cooking” button, Sample recipes (e.g., Simple Pasta, Scrambled Eggs), Clean, warm visual design with orange accents.
 
