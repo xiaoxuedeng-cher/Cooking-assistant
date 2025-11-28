@@ -1,0 +1,7 @@
+0   | Prepare leftover rice (cold rice works best).
+30  | Heat oil in a pan over medium-high heat.
+20  | Crack an egg into the pan and scramble.
+20  | Add chopped vegetables (peas, carrots, onions).
+30  | Stir everything together.
+120 | Add the rice, soy sauce, and mix well.
+0   | Serve hot.

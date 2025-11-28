@@ -1,0 +1,8 @@
+0   | Chop carrots, celery, potatoes, and onions into small pieces.
+30  | Heat oil in a large pot over medium heat.
+60  | Add chopped onions and sauté until soft.
+30  | Add carrots, celery, and potatoes to the pot.
+10  | Stir the vegetables and mix evenly.
+600 | Pour in broth and simmer for 10 minutes.
+120 | Add salt, pepper, and herbs to taste.
+0   | Serve warm. Add bread on the side if you like!

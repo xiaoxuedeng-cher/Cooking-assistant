@@ -1,0 +1,6 @@
+0   | Wash and peel shrimp; chop vegetables of your choice.
+20  | Heat oil in a wok or pan.
+60  | Add shrimp and stir until pink.
+90  | Add vegetables and sauce (soy sauce, garlic, sugar).
+120 | Stir fry everything together until cooked.
+0   | Serve hot with rice or noodles.

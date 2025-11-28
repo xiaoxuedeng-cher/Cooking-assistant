@@ -1,0 +1,7 @@
+0   | Cut soft tofu into cubes.
+20  | Heat oil and stir-fry minced garlic and chili bean paste.
+30  | Add ground pork or beef.
+60  | Cook until meat is browned.
+60  | Add tofu and gently mix.
+180 | Simmer with water/stock and seasonings.
+0   | Serve with rice.

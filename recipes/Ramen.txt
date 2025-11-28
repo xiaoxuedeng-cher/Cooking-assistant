@@ -1,0 +1,6 @@
+0   | Pour water into a pot and place it on the stove.
+60  | Wait for the water to start boiling.
+180 | Add instant noodles and cook for 3 minutes.
+10  | Add seasoning packet and stir well.
+20  | Add any toppings you like (egg, green onion, veggies).
+0   | Serve hot and enjoy!
